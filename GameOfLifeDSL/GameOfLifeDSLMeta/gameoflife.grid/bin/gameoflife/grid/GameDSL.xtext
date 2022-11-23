@@ -1,0 +1,19 @@
+grammar gameoflife.grid.GameDSL with org.eclipse.xtext.common.Terminals
+
+generate gameDSL "http://www.grid.gameoflife/GameDSL"
+
+Grid: 'Grid:' name = ID
+	(cells += Cell)*
+;
+	
+Cell:
+	'row:' row = INT
+	'col:' col = INT
+	'neighbours:' neighbours = INT
+	state = State
+;
+
+enum State:
+	dead | alive
+;
+
