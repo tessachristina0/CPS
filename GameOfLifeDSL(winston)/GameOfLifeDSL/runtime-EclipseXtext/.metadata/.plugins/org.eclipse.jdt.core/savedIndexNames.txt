@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+C:\Users\winst\Documents\Model-based Design of Cyber-physical Systems\Week 2\GameOfLifeDSL\runtime-EclipseXtext\.metadata\.plugins\org.eclipse.jdt.core
-1708341042.index
-1192341357.index
-1865797976.index
