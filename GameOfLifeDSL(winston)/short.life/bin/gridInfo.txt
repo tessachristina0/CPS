@@ -1,0 +1,7 @@
+Info of the Grid grid1
+All Cells:
+====== 
+row: 0 col: 0 state: dead &
+row: 0 col: 1 state: alive
+=====
+
